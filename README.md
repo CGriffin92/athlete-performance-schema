@@ -2,7 +2,7 @@
 SQL schema for a normalized athlete database
 # 🏋️ Athlete Onboarding & Mobility Database Schema
 
-This project demonstrates my ability to design a relational database schema focused on athlete tracking — specifically capturing onboarding data and mobility assessments. The schema is normalized and structured to allow easy expansion for additional performance and health data.
+This project demonstrates my ability to design a relational database schema focused on athlete tracking — specifically capturing onboarding data and mobility assessments. The schema is normalized and structured to allow easy expansion for additional performance and health data. Note : The tables given in this repository are a snippet of the companies data for privacy.
 
 ---
 
