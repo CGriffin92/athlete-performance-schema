@@ -67,8 +67,3 @@ This schema can be used by sports management companies, coaches, or rehabilitati
 
 ---
 
-## 📎 Next Steps 
-
-- Add strength or agility testing tables
-- Create an ETL pipeline from Google Sheets to populate these tables
-- Build queries or dashboards to visualize mobility trends
